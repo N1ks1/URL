@@ -1,1 +1,1 @@
-Tälläinen simppeli linkin lyhentäjä pythonia käyttäen. Toimii kun avaat pythonissa/cmd.
+Linkin lyhentäjä, joka käyttää tiny url apia. https://tinyurl.com
